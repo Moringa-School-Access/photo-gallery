@@ -14,3 +14,7 @@ This is a Django application for personal gallery that allows a user to upload i
 * View photos based on the location they were taken.
 
 ### Setup and Installation
+### Technology used
+* Python3.6
+* Django 1.11
+* Heroku
