@@ -24,3 +24,7 @@ This is a Django application for personal gallery that allows a user to upload i
 
 ### Contact Information
 If you have any question or contributions, please email me at alexotieno900@gmail.com
+
+### License
+* MIT License
+* Copyright &copy; 2020 | Alex Otieno
