@@ -1,17 +1,25 @@
-#formSearch{
-    background: transparent;
-    border: none;
-    outline: none;
-    box-shadow: none;
-    border-bottom: 1px solid white;
+#formSearch {
+  background: transparent;
+  border: none;
+  outline: none;
+  box-shadow: none;
+  border-bottom: 1px solid white;
 }
 
-.custom-btn{
-    background: transparent;
-    position: absolute;
-    right: 2%;
+#formSearch:focus {
+  color: white;
 }
 
-.fa-search{
-    color: orange;
+.custom-btn {
+  background: transparent;
+  position: absolute;
+  right: 2%;
+}
+
+.fa-search {
+  color: orange;
+}
+
+.image-location {
+  font-style: italic;
 }

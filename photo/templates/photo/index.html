@@ -4,6 +4,7 @@
 {% block content %}
 
 <div class="container-fluid pt-3">
+    <h2>Gallery</h2>
     <div class="container">
         <div class="card-columns">
             {% for image in images %}
@@ -25,8 +26,9 @@
                         <div class="modal-body">
                             <img src="{{image.image.url}}" alt="{{image.name}}" class="img-fluid">
                             <p class="text-center">{{image.description}}</p>
-                            <p>Image Location ~ {{image.location}}</p>
-                            <span> Image Category ~ {{image.category}}</span>
+                            <p class="image-location">Image Location ~ {{image.location}}</p>
+                            <p class="image-location">Image Category ~ {{image.category}}</p>
+                            <p class="image-location">Date Posted ~ {{ image.date }}</p>
                         </div>
                         <div class="modal-footer">
                             <input class="form-control input-lg" type="text" value="{{image.image.url}}" id="{{image.id}}.url">
