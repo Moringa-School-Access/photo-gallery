@@ -1,3 +1,7 @@
+body {
+  background: black;    
+}
+
 #formSearch {
   background: transparent;
   border: none;
@@ -23,3 +27,4 @@
 .image-location {
   font-style: italic;
 }
+
