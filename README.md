@@ -21,3 +21,6 @@ This is a Django application for personal gallery that allows a user to upload i
 
 ### Known Bugs
 * The copy functionality did not work as expected
+
+### Contact Information
+If you have any question or contributions, please email me at alexotieno900@gmail.com
