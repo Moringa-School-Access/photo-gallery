@@ -18,3 +18,6 @@ This is a Django application for personal gallery that allows a user to upload i
 * Python3.6
 * Django 1.11
 * Heroku
+
+### Known Bugs
+* The copy functionality did not work as expected
