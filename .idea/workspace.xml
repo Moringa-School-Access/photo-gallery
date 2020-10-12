@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a17de08-a5e9-4b5e-b80c-28067986aefb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../blog/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/auth/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/auth/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/auth/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/main/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/main/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/templates/allpost.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/templates/auth/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/templates/auth/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/templates/profile/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/templates/profile/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/templates/update_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/app/templates/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitch-project/.idea/pitch-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/app/main/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/app/static/photos/Screenshot_from_2020-09-21_14-04-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/app/static/photos/Screenshot_from_2020-09-21_14-04-01_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/app/static/style/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/app/templates/comment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/app/templates/macros.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/app/templates/pitch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/test/test_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/bin/email_validator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/Flask_Uploads-0.2.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/Flask_Uploads-0.2.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/Flask_Uploads-0.2.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/Flask_Uploads-0.2.1.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/Flask_Uploads-0.2.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/Flask_Uploads-0.2.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/Flask_Uploads-0.2.1.dist-info/version_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/_asyncbackend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/_asyncio_backend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/_curio_backend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/_trio_backend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/asyncbackend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/asyncquery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/asyncresolver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/dnssec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/e164.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/edns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/entropy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/enum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/flags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/grange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/inet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/ipv4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/ipv6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/namedict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/node.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/opcode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/query.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rcode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdataclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdatatype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/AFSDB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/AMTRELAY.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/AVC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/CAA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/CDNSKEY.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/CDS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/CERT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/CNAME.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/CSYNC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/DLV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/DNAME.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/DNSKEY.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/DS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/EUI48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/EUI64.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/GPOS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/HINFO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/HIP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/ISDN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/LOC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/MX.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/NINFO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/NS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/NSEC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/NSEC3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/NSEC3PARAM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/OPENPGPKEY.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/OPT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/PTR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/RP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/RRSIG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/RT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/SOA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/SPF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/SSHFP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/TLSA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/TSIG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/TXT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/URI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/X25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/ANY/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/CH/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/CH/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/IN/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/IN/AAAA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/IN/APL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/IN/DHCID.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/IN/IPSECKEY.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/IN/KX.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/IN/NAPTR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/IN/NSAP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/IN/NSAP_PTR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/IN/PX.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/IN/SRV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/IN/WKS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/IN/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/dnskeybase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/dsbase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/euibase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/mxbase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/nsbase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/txtbase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rdtypes/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/renderer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/resolver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/reversename.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/rrset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/serial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/tokenizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/tsig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/tsigkeyring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/ttl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/wire.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dns/zone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dnspython-2.0.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dnspython-2.0.0.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dnspython-2.0.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dnspython-2.0.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dnspython-2.0.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/dnspython-2.0.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/email_validator-1.1.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/email_validator-1.1.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/email_validator-1.1.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/email_validator-1.1.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/email_validator-1.1.1.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/email_validator-1.1.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/email_validator-1.1.1.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/email_validator-1.1.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/email_validator/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/flask_uploads.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/idna-2.10.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/idna-2.10.dist-info/LICENSE.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/idna-2.10.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/idna-2.10.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/idna-2.10.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/idna-2.10.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/idna/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/idna/codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/idna/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/idna/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/idna/idnadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/idna/intranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/idna/package_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/idna/uts46data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../news-api/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../news-api/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../news-api/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../news-api/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../news-api/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/../news-api/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../news-api/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../news-api/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../news-api/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../news-api/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../news-api/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../news-api/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../news-api/app/request.py" beforeDir="false" afterPath="$PROJECT_DIR$/../news-api/app/request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../news-api/app/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../news-api/app/static/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../news-api/app/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../news-api/app/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../news-api/app/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../news-api/app/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../news-api/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../news-api/app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../news-api/instance/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../news-api/instance/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/app/auth/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/app/auth/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/app/auth/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/app/auth/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/app/main/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/app/main/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/app/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/app/main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/app/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/app/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/app/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/app/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/app/templates/profile/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/app/templates/profile/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/Werkzeug-1.0.1.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/Werkzeug-1.0.1.dist-info/LICENSE.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/Werkzeug-1.0.1.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/Werkzeug-1.0.1.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/Werkzeug-1.0.1.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/Werkzeug-1.0.1.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/_compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/_compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/_internal.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/_internal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/datastructures.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/datastructures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/debug/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/debug/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/debug/console.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/debug/console.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/debug/tbtools.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/debug/tbtools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/http.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/http.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/local.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/local.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/middleware/proxy_fix.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/middleware/proxy_fix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/middleware/shared_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/middleware/shared_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/routing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/routing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/serving.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/serving.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/useragents.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/useragents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/wrappers/base_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/wrappers/base_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/wrappers/base_response.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/wrappers/base_response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/wrappers/common_descriptors.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/wrappers/common_descriptors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/wrappers/cors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/wrappers/etag.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/wrappers/etag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/wrappers/request.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/wrappers/request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/wrappers/response.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/wrappers/response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pitches/venv/lib/python3.8/site-packages/werkzeug/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practise/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../practise/app.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="c1994212-4059-40e7-8f9e-f033c28e9ecd" />
+  <component name="ProjectId" id="1ikdTyJORnetOzYNlUehtbbYo7X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="photo_gallery" type="Python.DjangoServer" factoryName="Django server">
+      <module name="photo_gallery" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a17de08-a5e9-4b5e-b80c-28067986aefb" name="Default Changelist" comment="" />
+      <created>1602455535137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602455535137</updated>
+      <workItem from="1602455556875" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
