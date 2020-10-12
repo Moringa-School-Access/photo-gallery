@@ -3,13 +3,9 @@
 <div class="container">
 
     {% if images %}
-    <h2 class="text-center" id="found">Found {{ images|length }} images in '{{message}}' category</h2>
+    <h2 class="text-center text-white pt-2" id="found">Found {{ images|length }} images in '{{message}}' category</h2>
     {% else %}
-    <h2 class="text-center text-white" id="foundnon"> Found 0 images for your search {{message}}</h2>
-
-    <a class="d-block mx-auto" href="/">
-        <button class="btn btn-sm btn-info d-block mx-auto">Back Home</button>
-    </a>
+    <h2 class="text-center text-white pt-4" id="foundnon"> Found 0 images for your search {{message}}</h2>
     {% endif %}
     {% if images %}
     <div class="card-columns">
