@@ -3,3 +3,4 @@ venv/
 env.sh
 .vscode
 __pycache__/ 
+start.sh
