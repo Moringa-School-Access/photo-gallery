@@ -20,3 +20,5 @@ check:
 collectstatic:
 	python manage.py collectstatic
 	#Usage: make collectstatic
+test:
+	python manage.py test
